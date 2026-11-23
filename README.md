@@ -35,3 +35,6 @@
 1. Place `Housing.csv` in the same folder as the notebook.
 2. Install: `pandas numpy matplotlib seaborn scikit-learn statsmodels`.
 3. Open the notebook and run all cells from top to bottom. A fixed random seed (42) makes results reproducible.
+
+   **Submission GitHub ID:** [github.com/complexiota](https://github.com/complexiota)
+   
